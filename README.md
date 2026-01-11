@@ -32,7 +32,23 @@ Currently focusing on:
 ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername)
 
 ## 🛠️ Technical Skills
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+💻 *Leveling up my backend and web development skills through real-world coding*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js">
+</p>
+
 
 ### 🔹 Programming Languages
 - Java  
