@@ -31,11 +31,7 @@ Currently focusing on:
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=yourusername)
 
-## 🛠️ Technical Skills
-💻 *Leveling up my backend and web development skills through real-world coding*
 
-
- 
 ## 🛠️ Technical Skills
 💻 *Backend and web technologies I actively use and practice*
 
