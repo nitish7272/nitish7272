@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
-  <b>Building backend systems through real-world projects</b>
+  <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Java+%7C+Node.js;Learning+Full+Stack&center=true&width=520&height=45">
 </p>
+
+# 👋 Hi, I'm Nitish Chaudhary
+
 
 # 👋 Hi, I'm Nitish Chaudhary
 
