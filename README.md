@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="380"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Java+%7C+Node.js;B.Tech+CSE+Student&center=true&width=520&height=45">
+  <b>Building backend systems through real-world projects</b>
 </p>
 
 # 👋 Hi, I'm Nitish Chaudhary
