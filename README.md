@@ -1,17 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-lines=Backend+Developer;Java+%7C+Node.js+%7C+Python;Building+Real+World+Systems
-&center=true
-&width=700
-&height=50
-&color=36BCF7
-&background=00000000
-&vCenter=true">
-</p>
 
 
 
