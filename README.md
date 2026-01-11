@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif"
+       width="100%"
+       height="220"/>
 </p>
 
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Java;C;Python;HTML+%7C+CSS+%7C+JavaScript;React.js;Node.js&center=true&width=700&height=45&color=36BCF7&background=00000000&pause=700">
+</p>
 
 # 👋 Hi, I'm Nitish Chaudhary
 
