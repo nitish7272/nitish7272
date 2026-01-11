@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Java+%7C+Node.js;Learning+Full+Stack&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Java+%7C+Node.js;B.Tech+CSE+Student&center=true&width=600&height=45">
 </p>
-
-# 👋 Hi, I'm Nitish Chaudhary
 
 
 # 👋 Hi, I'm Nitish Chaudhary
