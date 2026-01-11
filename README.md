@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Java+%7C+Node.js;B.Tech+CSE+Student&center=true&width=500&height=50">
+  <b>Backend Developer | Java | Node.js | CSE</b>
 </p>
-
-
-
 
 # 👋 Hi, I'm Nitish Chaudhary
 
