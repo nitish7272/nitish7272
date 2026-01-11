@@ -5,6 +5,8 @@
 🚀 Passionate about Java-based backend systems and full-stack development
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
 
 ## 🧑‍💻 About Me
 I am a Computer Science Engineering student with a strong interest in **backend development**.  
@@ -16,8 +18,10 @@ Currently focusing on:
 - Real-world project development
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername)
 
 ## 🛠️ Technical Skills
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ### 🔹 Programming Languages
 - Java  
