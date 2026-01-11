@@ -1,3 +1,4 @@
+<!-- PROFILE HEADER -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
@@ -6,8 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Java+%7C+Node.js;B.Tech+CSE+Student&center=true&width=520&height=45">
 </p>
 
-
 # 👋 Hi, I'm Nitish Chaudhary
+
 
 🎓 B.Tech CSE Student  
 💻 Backend Developer (Learning & Building)  
