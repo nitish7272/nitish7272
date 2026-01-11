@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Java+%7C+Node.js;B.Tech+CSE+Student&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.demolab.com?
+lines=Backend+Developer;Java+%7C+Node.js+%7C+Python;Building+Real+World+Systems
+&center=true
+&width=700
+&height=50
+&color=36BCF7
+&background=00000000
+&vCenter=true">
 </p>
+
 
 
 # 👋 Hi, I'm Nitish Chaudhary
@@ -33,8 +41,10 @@ Currently focusing on:
 ## 🛠️ Technical Skills
 💻 *Leveling up my backend and web development skills through real-world coding*
 
-## 🛠️ Technical Skills
-💻 *Technologies I use and continuously improve through hands-on projects*
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320"/>
+</p>
+
 
 <p align="center">
   <!-- Programming Languages -->
